@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-//this is comment 
+//this is comment this is comment
 root.render(
   <React.StrictMode>
     <App />
